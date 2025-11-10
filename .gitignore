@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
+build/
+dist/
+.cache/
+
+# Environment / credentials
+.env
+*.json
+*.pem
+
+# macOS junk
+.DS_Store
+
