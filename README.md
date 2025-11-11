@@ -18,6 +18,9 @@ An AI-powered system that detects phishing emails using BERT and scikit-learn, i
 - **ML Models**: BERT, scikit-learn
 
 ## 🎥 Demo Video
+Experience **PhishShield AI** in action — see how it scans Gmail inboxes, detects phishing attempts with BERT, and stores analysis results in MongoDB.
+
+[![PhishShield AI Demo](https://img.shields.io/badge/▶️%20Watch-Demo%20Video-red?style=for-the-badge)](demo/phishshield_demo.mp4)
 
 
 ## Setup
