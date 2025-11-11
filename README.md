@@ -17,6 +17,9 @@ An AI-powered system that detects phishing emails using BERT and scikit-learn, i
 - **Frontend**: React
 - **ML Models**: BERT, scikit-learn
 
+## 🎥 Demo Video
+
+
 ## Setup
 
 ### Backend Setup
